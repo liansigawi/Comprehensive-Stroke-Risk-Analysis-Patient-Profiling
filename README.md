@@ -1,4 +1,3 @@
-# Comprehensive-Stroke-Risk-Analysis-Patient-Profiling
 # Comprehensive Stroke Prediction & Patient Profiling Project
 
 ## 🚀 Introduction

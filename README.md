@@ -1,6 +1,6 @@
 # Comprehensive Stroke Prediction & Patient Profiling Project
 
-## 🚀 Introduction
+##  Introduction
 
 This project presents a multi-faceted data science analysis of a healthcare dataset on stroke patients. The primary objective is twofold:
 1.  [cite_start]**Unsupervised Analysis:** To uncover hidden patterns and natural patient groupings using K-Means Clustering and to identify co-occurring risk factors through Apriori Association Rule Mining [cite: 430, 435-436].
@@ -10,7 +10,7 @@ This repository demonstrates a complete data science workflow, from data cleanin
 
 ---
 
-## 📊 The Dataset
+##  The Dataset
 
 The analysis is based on the "Stroke Prediction Dataset", publicly available on Kaggle.
 
@@ -25,7 +25,7 @@ The data contains demographic, medical, and lifestyle information for approximat
 
 ---
 
-## 🛠️ Project Workflow & Methodology
+##  Project Workflow & Methodology
 
 The project was executed in three main stages after initial data cleaning and preprocessing.
 
@@ -58,7 +58,7 @@ The models evaluated were:
 
 ---
 
-## 📈 Results & Key Findings
+##  Results & Key Findings
 
 The performance of the predictive models was carefully compared to determine the most suitable approach for this clinical problem.
 
@@ -90,7 +90,7 @@ The ROC curves show that all models perform significantly better than random cha
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 
 This project successfully combined unsupervised and supervised learning techniques to gain a deep understanding of stroke risk factors.
 
@@ -100,7 +100,7 @@ This project successfully combined unsupervised and supervised learning techniqu
 
 ---
 
-## 💻 How to Run
+##  How to Run
 
 1.  Clone this repository to your local machine.
 2.  Ensure you have all the required Python libraries installed (listed at the top of the notebook).

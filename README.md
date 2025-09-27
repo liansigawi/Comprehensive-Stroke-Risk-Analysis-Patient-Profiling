@@ -74,7 +74,7 @@ The table below summarizes the performance of each model on the test set. The fo
 
 
 
-[Image of the classification reports]
+![graph](graph.png)
 
 
 ### ROC Curve Comparison

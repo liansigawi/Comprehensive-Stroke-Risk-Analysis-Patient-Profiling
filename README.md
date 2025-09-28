@@ -3,8 +3,8 @@
 ##  Introduction
 
 This project presents a multi-faceted data science analysis of a healthcare dataset on stroke patients. The primary objective is twofold:
-1.  [cite_start]**Unsupervised Analysis:** To uncover hidden patterns and natural patient groupings using K-Means Clustering and to identify co-occurring risk factors through Apriori Association Rule Mining.
-2.  [cite_start]**Supervised Prediction:** To build, evaluate, and compare several machine learning models to predict the likelihood of a patient experiencing a stroke.
+1.  **Unsupervised Analysis:** To uncover hidden patterns and natural patient groupings using K-Means Clustering and to identify co-occurring risk factors through Apriori Association Rule Mining.
+2.  **Supervised Prediction:** To build, evaluate, and compare several machine learning models to predict the likelihood of a patient experiencing a stroke.
 
 This repository demonstrates a complete data science workflow, from data cleaning and preprocessing to advanced modeling and interpretation of the results.
 
